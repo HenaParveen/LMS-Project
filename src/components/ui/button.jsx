@@ -46,6 +46,6 @@ const Button = React.forwardRef(
     );
   }
 );
-Button.displayName = "Buton";
+Button.displayName = "Hena Parveen";
 
 export { Button, buttonVariants };
